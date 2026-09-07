@@ -123,7 +123,31 @@ The main objectives of this project are to:
 
 
 \---
+## 📸 Screenshots
 
+### 🏠 Main Screening Interface
+
+The main interface allows recruiters to upload multiple PDF resumes and enter the job description.
+
+![Main Screening Interface](screenshots/main-screen.png)
+
+### 📊 Screening Overview
+
+The dashboard displays the number of candidates, average fit score, highest score, and strong matches, along with the automatically ranked candidates.
+
+![Screening Overview](screenshots/screening-overview.png)
+
+### 🔎 Candidate Analysis
+
+Recruiters can select an individual candidate to view their fit score, recommendation, strengths, and skill gaps.
+
+![Candidate Analysis](screenshots/candidate-analysis.png)
+
+### 📥 CSV Shortlist Export
+
+The application allows recruiters to download the complete ranked candidate shortlist as a CSV file.
+
+![CSV Export](screenshots/csv-export.png)
 
 
 ### \## Technologies Used
